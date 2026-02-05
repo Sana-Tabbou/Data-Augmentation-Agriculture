@@ -6,7 +6,7 @@
 
 # Framework d'Augmentation de Données pour l'Imagerie Agricole
 
-**Projet de Fin d'Études **  
+## Projet de Fin d'Études ##
 *Développement de méthodes d'augmentation de données pour l'imagerie agricole*
 
 ---
